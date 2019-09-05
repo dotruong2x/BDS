@@ -8517,6 +8517,11 @@ h1, h2, h3, h4, h5,
         .an{
           display: none;
         }
+        .social-btns{
+    flex-direction: row;
+    top: 460px!important;
+    width: 200px!important;
+        }
       }
       @media (max-width: 1199.98px) {
         .owl-carousel.home-slider .slider-item {
